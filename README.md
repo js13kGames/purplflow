@@ -1,2 +1,2 @@
-# purplflow
-PurplFLOW is a VR action shooter game inspired by [SUPERHOT](https://superhotgame.com "Time moves when you move") made for the [js13kGames](https://js13kgames.com "Annual competition with plenty of prizes. Want to participate?") game competition with the [A-Frame open-source](https://aframe.io "A-Frame") library for WebVR developed by [Mozilla](https://mozilla.org "Non-profit dedicated to protecting the Internet").
+# purplFLOW
+PurplFLOW is a VR action shooter game inspired by [SUPERHOT](https://superhotgame.com "Time moves when you move") made for the [js13kGames](https://js13kgames.com "Annual competition with plenty of prizes. Want to participate?") game competition with the [A-Frame open-source](https://aframe.io "A-Frame") library for WebVR developed by [Mozilla](https://mozilla.org "Non-profit dedicated to protecting the Internet"). See more about it, including controls and how to play at <http://purplFLOW.pen.io>.
