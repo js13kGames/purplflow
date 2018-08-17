@@ -1,14 +1,14 @@
 # Table of Contents
-- [Description](#purplFLOW)
-- [How to play](#How-to-play)
-  - [Google Cardboard](#Google-Cardboard)
-  - [Google Daydream](#Google-Daydream)
-  - [Samsung Gear VR](#Samsung-Gear-VR)
-  - [HTC Vive](#HTC-Vive)
-  - [Oculus Rift](#Oculus-Rift)
-  - [Don't have VR?](#No-VR)
-- [Contributing](#Contributing)
-- [Releases](#Releases)
+- [Description](/blob/master/README.md#purplFLOW)
+- [How to play](/blob/master/README.md#How-to-play)
+  - [Google Cardboard](/blob/master/README.md#Google-Cardboard)
+  - [Google Daydream](/blob/master/README.md#Google-Daydream)
+  - [Samsung Gear VR](/blob/master/README.md#Samsung-Gear-VR)
+  - [HTC Vive](/blob/master/README.md#HTC-Vive)
+  - [Oculus Rift](/blob/master/README.md#Oculus-Rift)
+  - [Don't have VR?](/blob/master/README.md#No-VR)
+- [Contributing](/blob/master/README.md#Contributing)
+- [Releases](/blob/master/README.md#Releases)
 
 ---
 # purplFLOW
@@ -18,23 +18,23 @@ PurplFLOW is a VR action shooter game inspired by [SUPERHOT](https://superhotgam
 # How to play
 1. Open up [purplFLOW](https://purplFLOW.glitch.me) on your phone, tablet, or computer in the latest up-to-date version of either Chrome or Firefox (though VR might not be possible on a tablet!) ([don't know your browser's version?](https://updatemybrowser.org))
 2. Get your VR headset and set it up ([is your headset compatible?](https://webvr.rocks))
-  - [Google Cardboard (or similar)](#Google-Cardboard)
-  - [Google Daydream](#Google-Daydream)
-  - [Samsung Gear VR](#Samsung-Gear-VR)
-  - [HTC Vive](#HTC-Vive)
-  - [Oculus Rift](#Oculus-Rift)
-  - [Don't have VR?](#No-VR)
+  - [Google Cardboard (or similar)](/blob/master/README.md#Google-Cardboard)
+  - [Google Daydream](/blob/master/README.md#Google-Daydream)
+  - [Samsung Gear VR](/blob/master/README.md#Samsung-Gear-VR)
+  - [HTC Vive](/blob/master/README.md#HTC-Vive)
+  - [Oculus Rift](/blob/master/README.md#Oculus-Rift)
+  - [Don't have VR?](/blob/master/README.md#No-VR)
 
 ---
 ## Google Cardboard
-3. Pair a gamepad or controller through Bluetooth with your device for a better experience (optional) ([how?](#Pair-a-controller))
+3. Pair a gamepad or controller through Bluetooth with your device for a better experience (optional) ([how?](/blob/master/README.md#Pair-a-controller))
 4. Enter VR mode by touching the VR headset icon in the bottom right corner of your device's screen
 5. Plug your phone in the VR headset ([need help setting it up?](https://support.google.com/cardboard/answer/6295046?hl=en))
 6. Put your headset on and have fun!
 
 **Controls**
 
-Look around using your headset and shoot by tapping on the screen or on a button, if available ([if you pair a controller, you can move around and shoot with it!](#Pair-a-controller))
+Look around using your headset and shoot by tapping on the screen or on a button, if available ([if you pair a controller, you can move around and shoot with it!](/blob/master/README.md#Pair-a-controller))
 
 ## Google Daydream
 3. Enter VR mode by touching the VR headset icon in the bottom right corner of your device's screen
@@ -75,9 +75,18 @@ If you've set up the position tracking cameras, you can move and crouch freely w
 ## No VR
 Don't worry, even if you don't have VR or don't have a compatible headset, you can still play purplFLOW without a VR experience. On a desktop PC or laptop, you can use your keyboard and mouse to move, look around and shoot (with W, A, S, D keys, mouse and left mouse button). On mobile, you can move your view by moving the phone and shoot by tapping on the screen.
 
+## Pair a controller
+1. Go to your device's Settings
+2. Enable Bluetooth
+3. Activate the controller's pairing mode ([how?](https://www.youtube.com/watch?v=mQxkk1VuCyE "Simple YouTube tutorial for pairing most controllers to a device"))
+4. Select the controller from the Bluetooth devices Search list
+5. Now you have a paired controller!
+
+**[Go back](/blob/master/README.md#Google-Cardboard)**
+
 ---
 # Contributing
-Found a bug? Have an idea on how to improve the game? Feel free to [open an issue here](https://github.com/primedcore/purplflow/issues/new). Make sure to fill it with detailed info (i.e. how to reproduce the bug, what color you want the unicorns to be, whatever else you feel is necessary). Feedback is welcome at techadvancing@gmail.com (yeah, cool username, I know).
+Found a bug? Have an idea on how to improve the game? Feel free to [open an issue here](/issues/new). Make sure to fill it with detailed info (i.e. how to reproduce the bug, what color you want the unicorns to be, whatever else you feel is necessary). Feedback is welcome at techadvancing@gmail.com (yeah, cool username, I know).
 
 ---
 # Releases
