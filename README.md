@@ -9,6 +9,7 @@
   - [Don't have VR?](#no-vr)
 - [Contributing](#contributing)
 - [Releases](#releases)
+- [Still need help?](#help)
 
 ---
 # purplFLOW
@@ -86,8 +87,12 @@ Don't worry, even if you don't have VR or don't have a compatible headset, you c
 
 ---
 # Contributing
-Found a bug? Have an idea on how to improve the game? Feel free to [open an issue here](/issues/new). Make sure to fill it with detailed info (i.e. how to reproduce the bug, what color you want the unicorns to be, whatever else you feel is necessary). Feedback is welcome at techadvancing@gmail.com (yeah, cool username, I know).
+Found a bug? Have an idea on how to improve the game? Feel free to [open an issue here](/issues/new). Make sure to fill it with detailed info (i.e. how to reproduce the bug, what color you want the unicorns to be, whatever else you feel is necessary). Feedback and questions are welcome at techadvancing@gmail.com (yeah, cool username, I know).
 
 ---
 # Releases
 The release versions of this game comply with [Semantic Versioning](https://semver.org/). Releases with the `-alpha` prefix denote versions which are *highly experimental* and *feature incomplete*. Releases with the `-beta` prefix denote *feature complete* versions which may contain *bugs*. **Development for purplFLOW continues after the submission deadline of the [js13kGames](https://js13kgames.com "Annual competition with plenty of prizes. Want to participate?") competition in the default** `master` **branch. To see the original submitted version of this game, visit the** `js13k` **branch of this repo, get the first release or go to the [game's entry page on the js13kGames website](https://js13kgames.com/entries/purplFLOW).**
+
+---
+# Help
+If you still have trouble playing purplFLOW or setting up your VR environment, or don't know what to do, please contact me at techadvancing@gmail.com for more support. I'll be happy to help! Consider [opening an issue](/issues/new) if the problem you have persists on multiple browsers or devices.
