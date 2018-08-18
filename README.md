@@ -1,14 +1,14 @@
 # Table of Contents
-- [Description](#purplFLOW)
-- [How to play](/blob/master/README.md#How-to-play)
-  - [Google Cardboard](/blob/master/README.md#Google-Cardboard)
-  - [Google Daydream](/blob/master/README.md#Google-Daydream)
-  - [Samsung Gear VR](/blob/master/README.md#Samsung-Gear-VR)
-  - [HTC Vive](/blob/master/README.md#HTC-Vive)
-  - [Oculus Rift](/blob/master/README.md#Oculus-Rift)
-  - [Don't have VR?](/blob/master/README.md#No-VR)
-- [Contributing](/blob/master/README.md#Contributing)
-- [Releases](/blob/master/README.md#Releases)
+- [Description](#purplflow)
+- [How to play](#how-to-play)
+  - [Google Cardboard](#google-cardboard)
+  - [Google Daydream](#google-daydream)
+  - [Samsung Gear VR](#samsung-gear-vr)
+  - [HTC Vive](#htc-vive)
+  - [Oculus Rift](#oculus-rift)
+  - [Don't have VR?](#no-vr)
+- [Contributing](#contributing)
+- [Releases](#releases)
 
 ---
 # purplFLOW
@@ -18,23 +18,23 @@ PurplFLOW is a VR action shooter game inspired by [SUPERHOT](https://superhotgam
 # How to play
 1. Open up [purplFLOW](https://purplFLOW.glitch.me) on your phone, tablet, or computer in the latest up-to-date version of either Chrome or Firefox (though VR might not be possible on a tablet!) ([don't know your browser's version?](https://updatemybrowser.org))
 2. Get your VR headset and set it up ([is your headset compatible?](https://webvr.rocks))
-  - [Google Cardboard (or similar)](/blob/master/README.md#Google-Cardboard)
-  - [Google Daydream](/blob/master/README.md#Google-Daydream)
-  - [Samsung Gear VR](/blob/master/README.md#Samsung-Gear-VR)
-  - [HTC Vive](/blob/master/README.md#HTC-Vive)
-  - [Oculus Rift](/blob/master/README.md#Oculus-Rift)
-  - [Don't have VR?](/blob/master/README.md#No-VR)
+  - [Google Cardboard (or similar)](#google-cardboard)
+  - [Google Daydream](#google-daydream)
+  - [Samsung Gear VR](#samsung-gear-vr)
+  - [HTC Vive](#htc-vive)
+  - [Oculus Rift](#oculus-rift)
+  - [Don't have VR?](#no-vr)
 
 ---
 ## Google Cardboard
-3. Pair a gamepad or controller through Bluetooth with your device for a better experience (optional) ([how?](/blob/master/README.md#Pair-a-controller))
+3. Pair a gamepad or controller through Bluetooth with your device for a better experience (optional) ([how?](#pair-a-controller))
 4. Enter VR mode by touching the VR headset icon in the bottom right corner of your device's screen
 5. Plug your phone in the VR headset ([need help setting it up?](https://support.google.com/cardboard/answer/6295046?hl=en))
 6. Put your headset on and have fun!
 
 **Controls**
 
-Look around using your headset and shoot by tapping on the screen or on a button, if available ([if you pair a controller, you can move around and shoot with it!](/blob/master/README.md#Pair-a-controller))
+Look around using your headset and shoot by tapping on the screen or on a button, if available ([if you pair a controller, you can move around and shoot with it!](#pair-a-controller))
 
 ## Google Daydream
 3. Enter VR mode by touching the VR headset icon in the bottom right corner of your device's screen
@@ -82,7 +82,7 @@ Don't worry, even if you don't have VR or don't have a compatible headset, you c
 4. Select the controller from the Bluetooth devices Search list
 5. Now you have a paired controller!
 
-**[Go back](/blob/master/README.md#Google-Cardboard)**
+**[Go back](#google-cardboard)**
 
 ---
 # Contributing
