@@ -1,5 +1,5 @@
 # Table of Contents
-- [Description](/blob/master/README.md#purplFLOW)
+- [Description](#purplFLOW)
 - [How to play](/blob/master/README.md#How-to-play)
   - [Google Cardboard](/blob/master/README.md#Google-Cardboard)
   - [Google Daydream](/blob/master/README.md#Google-Daydream)
