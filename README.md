@@ -89,7 +89,7 @@ Don't worry, even if you don't have VR or a compatible headset, you can still pl
 
 ---
 # Contributing
-Found a bug? Spotted an error? Have an idea on how to improve the game? Want a feature added to purplFLOW? Feel free to [open an issue here](https://github.com/primedcore/purplflow/issues/new "Open an issue to help speed up the game's development!"). *Make sure to fill it with detailed info* (i.e. how to reproduce the bug, what color you want the unicorns to be, whatever else you feel is necessary)*.* Feedback and questions are welcome at techadvancing@gmail.com (yeah, cool username, I know).
+Found a bug? Spotted an error? Have an idea on how to improve the game? Want a feature added to purplFLOW? Feel free to [open an issue here](https://github.com/primedcore/purplflow/issues/new/choose "Open an issue to help speed up the game's development!"). *Make sure to fill it with detailed info* (i.e. how to reproduce the bug, what color you want the unicorns to be, whatever else you feel is necessary)*.* Feedback and questions are welcome at techadvancing@gmail.com (yeah, cool username, I know).
 
 ---
 # Releases
