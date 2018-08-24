@@ -81,7 +81,7 @@ Don't worry, even if you don't have VR or a compatible headset, you can still pl
 ## Pair a controller
 1. Go to your device's settings
 2. Enable Bluetooth
-3. Activate the controller's pairing mode ([how?](https://www.youtube.com/watch?v=mQxkk1VuCyE "Simple YouTube tutorial for pairing most controllers to a device"))
+3. Activate the controller's pairing mode ([need help?](https://www.youtube.com/watch?v=mQxkk1VuCyE "Simple YouTube tutorial for pairing most controllers to a device"))
 4. Select the controller from the Bluetooth devices Search list
 5. Now you have a paired controller!
 
