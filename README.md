@@ -20,7 +20,7 @@ Mozilla® is a registered trademark of the Mozilla Foundation.
 ---
 # How to play
 1. Open up [purplFLOW](https://purplFLOW.glitch.me "purplFLOW. plug play shoot.") on your phone, tablet, or computer in the latest up-to-date version of either Chrome or Firefox (though VR might not be possible on a tablet!) ([don't know your browser's version?](https://updatemybrowser.org "Find out which browser version you have and update it if needed"))
-2. Get your VR headset and set it up ([need more help?](https://webvr.info "Full list of compatible VR headsets, browsers and devices"))
+2. Get your VR headset and set it up ([need help?](#help))
    - [Google Cardboard (or similar)](#google-cardboard)
    - [Google Daydream](#google-daydream)
    - [Samsung Gear VR](#samsung-gear-vr)
