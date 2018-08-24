@@ -97,6 +97,6 @@ The release versions of this game comply with [Semantic Versioning](https://semv
 
 ---
 # Help
-If you still have trouble playing purplFLOW or setting up your VR environment, or don't know what to do, please contact me at techadvancing@gmail.com for more support. I'll be happy to help! Consider [opening an issue](https://github.com/primedcore/purplflow/issues/new "Open an issue to help speed up the game's development!") if the problem you have persists on multiple browsers or devices.
+If you still have trouble setting up your VR environment, or don't know what to do, visit https://webvr.info. If all else fails, or you have trouble playing purplFLOW, please contact me at techadvancing@gmail.com for support. I'll be happy to help! Consider [opening an issue](https://github.com/primedcore/purplflow/issues/new "Open an issue to help speed up the game's development!") if the problem you have persists on multiple browsers or devices.
 
 **[Back to top](#table-of-contents)**
